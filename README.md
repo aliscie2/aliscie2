@@ -1,117 +1,180 @@
-I lost my prevuse github account https://github.com/aliscie2 So my work history gone 
+# ALI HUSHAM
 
-# ALI husham
+**Lead Frontend Web3 Developer | Full Stack Blockchain Engineer | ICP & EVM Specialist**
 
-**Full stack dev |Senior Blockchain layer 1&2 developer | ICP specialist**
-
-*Web3 Architect | Rust & ICP Specialist | TDD specialist* | 8+ years of expernce
+*React • Next.js • TypeScript • Rust • Solidity | Web3.js • Ethers.js | 8+ years experience*
 
 Remote (Global) | Open to Relocation  
 alihushamsci@icloud.com | [odoc.app](https://odoc.app)  
 [GitHub](https://github.com/aliscie) | [LinkedIn](https://www.linkedin.com/in/alisci)  
 [Twitter](https://x.com/alihushamsci) | [YouTube](https://youtube.com/@odocic)  
 
+---
 
-## 🧾 Summary
+## 🧾 SUMMARY
 
-Self-taught full-stack developer with a background in physics and deep expertise in blockchain engineering. Proven track record leading Web3 product architecture with real-world success, obtained a \$35K DFINITY grant. Skilled in Rust, Python, and decentralized systems, with strong principles in test-driven development (TDD). Passionate about designing systems with scientific rigor and building dev tools that scale. 
+Lead Frontend Web3 Developer with 8+ years building production dApps and decentralized consumer applications. Proven track record architecting and shipping Web3 products from 0 to 1—secured $35K DFINITY grant for odoc.app. Expert in React, TypeScript, smart contract integration, and wallet connectivity. Strong technical leadership experience mentoring engineering teams while maintaining hands-on coding. Passionate about building seamless Web3 UX with AI-assisted development workflows.
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 TECHNICAL SKILLS
 
-**Blockchain & Web3:**
-Rust, ICP Canisters, Solidity, Ethereum, ckUSDC Integration, IC Stable Structures, OpenZeppelin
+**Frontend & Web3:**
+React, Next.js, TypeScript/JavaScript, HTML5/CSS3, Angular, Vue (basic)
+Web3.js, Ethers.js, Wagmi, MetaMask Integration, Wallet Connectivity, Smart Contract Calls
+
+**Blockchain & Smart Contracts:**
+Solidity, Rust, ICP Canisters, Ethereum (EVM), Layer 2 Solutions, ckUSDC Integration, OpenZeppelin, Gas Optimization
 
 **Backend:**
-Python, FastAPI, Django REST, GraphQL, Node.js, Web3.js, Ethers.js, OAuth2, JWT
+Node.js, Python, FastAPI, Django REST, GraphQL, PHP (functional), OAuth2, JWT
 
-**Frontend:**
-React, Angular, Vue (basic familiarity), HTML5/CSS3
+**Development Tools & AI:**
+GitHub Copilot, Cursor, ChatGPT, AI-Assisted Development Workflows, TDD, Vitest, Jest, Pytest
 
 **DevOps & Infrastructure:**
-AWS, Docker, PostgreSQL, MongoDB, Hardhat, Git, Monorepo Architecture
+AWS, Docker, PostgreSQL, MongoDB, Hardhat, Git, CI/CD, Monorepo Architecture
 
-**Testing & QA:**
-Test-Driven Development (TDD), Vitest, Pytest, Chai, Mocha, Smart Contract Auditing
+**Design & UX:**
+Figma, Adobe Illustrator, Component-Driven Design Systems, Tailwind CSS, Responsive Design
 
-**Collaboration & Leadership:**
-Agile Development, Remote Team Leadership, Proposal Writing, Asana, GitHub
+**Leadership:**
+Technical Team Leadership, Agile Development, Remote Team Management, Cross-Functional Collaboration
 
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
 
-**B.Sc. in General Physics**
+**B.Sc. in General Physics**  
 **University of Baghdad**, Iraq (2017-2020)
 
 ---
 
-## 📜 Certifications
+## 📜 CERTIFICATIONS
 
-**Polkadot Blockchain Academy**
-Certified by an academy where *Gavin Wood* (Ethereum Co-founder) teaches
+**Polkadot Blockchain Academy**  
+Certified by academy where *Gavin Wood* (Ethereum Co-founder) teaches  
 📄 [View Certificate](https://app.kajabi.com/certificates/9b82fde3)
 
 ---
 
-## 💼 Work Experience
+## 💼 WORK EXPERIENCE
 
-### **Lead Backend Architect**
+### **Founder & Lead Frontend Web3 Developer**
+[**Odoc.app**](https://odoc.app) — *2022–Present*  
+*Led frontend architecture and full-stack development of Web3 freelance platform; secured $35K DFINITY grant*
 
-[**Odoc.app**](https://odoc.app) — *2022–2023*
-*Architected and led development of a Web3 freelance platform; won \$35K DFINITY grant*
-
+**Frontend & Web3 Leadership:**
+* Architected and built production React frontend with seamless Web3 UX
+* Integrated MetaMask wallet connectivity with identity-based authentication—zero security breaches
+* Designed AI-driven calendar scheduler with conversational UI ([demo](https://x.com/odoc_ic/status/1905211727806939566))
+* Built responsive, intuitive interfaces collaborating with design and product teams
+* Implemented smart contract interactions for on-chain promises and profit-sharing ([demo](https://x.com/alihushamsci/status/1898284152224403940))
+* Led remote team of 4 developers, delivering MVP ahead of schedule
 * Created [video tutorials](https://www.youtube.com/watch?v=Pcba0_JW2Xc&list=PLZ54FkZk9dwFjC0AyFv6elMA4VGE6N50T) for community onboarding
-* Built Rust backend using IC Stable Structures—cut storage from 50TB to 50GB
-* Engineered ckUSDC-based L2 wallet system (1,000+ transactions) ([code sample](https://github.com/aliscie/odoc/blob/7565cff268ff961a2e41d72601d0e010873f17cf/src/backend/src/wallet/updates.rs#L155))
-* Designed AI-driven calendar scheduler ([source](https://github.com/aliscie/odoc/tree/dev/src/frontend/pages/dashBoardPage/calindarView)) ([demo](https://x.com/odoc_ic/status/1905211727806939566))
-* Built on-chain promises + profit-sharing contracts ([code](https://github.com/aliscie/odoc/blob/dev/src/backend/src/contracts/custom_contract/types.rs))
 
-  * [Promise demo](https://x.com/alihushamsci/status/1898284152224403940)
-  * [Share demo](https://x.com/alihushamsci/status/1898284605108519162)
-* Developed trust system based on contract fulfillment
-* Integrated MetaMask + identity-based auth with zero reported breaches
-* Led remote team of 4 devs to MVP ahead of schedule
+**Technical Stack:**
+React, TypeScript, Web3.js, MetaMask, Rust backend, IC Stable Structures, ckUSDC L2 wallet (1,000+ transactions)
+
+**Key Achievements:**
+* Reduced storage from 50TB to 50GB through architectural optimization
+* Built trust system based on smart contract fulfillment
+* Engineered secure wallet system processing 1,000+ blockchain transactions
 
 ---
 
-### **Blockchain Engineer**
+### **Frontend & Blockchain Engineer**
+[**Blockczech.io**](https://blockczech.io) — *2021–2022*  
+*Built NFT marketplace frontend and smart contract infrastructure*
 
-[**Blockczech.io**](https://blockczech.io) — *2021–2022*
-*Built foundational NFT trading infrastructure*
-
-* Wrote gas-efficient smart contracts (25% gas savings)
-* Designed backend for Ethereum NFT marketplace (500+ trades/quarter)
-* Built scalable REST APIs for multiple frontend integrations
-
----
-
-### **Backend Lead**
-
-**Crowdbotics** via Upwork — *2018–2021*
-*Built backend infrastructure for healthtech and SaaS*
-
-* Engineered [Vytrac](https://vytrac.com) hospital system (10K+ patient records)
-* Led backend for [GetScouted](https://getscouted.com) talent platform—cut scheduling issues by 85%
-* Built secure JWT/OAuth2 systems for healthcare-grade privacy
+* Developed React frontend for Ethereum NFT marketplace (500+ trades/quarter)
+* Integrated Web3.js and Ethers.js for wallet connectivity and NFT transactions
+* Wrote gas-efficient Solidity smart contracts (25% gas savings)
+* Built scalable REST APIs connecting frontend to blockchain
+* Collaborated with design team to create intuitive Web3 user flows
 
 ---
 
-## 🚀 Notable Projects
+### **Full Stack Developer & Backend Lead**
+**Crowdbotics** via Upwork — *2018–2021*  
+*Built full-stack applications for healthtech and SaaS platforms*
 
-* **[NFT Marketplace DApp](https://github.com/aliscie/NFT-Marketplace-DApp)** – Ethereum-based marketplace with MetaMask integration
-* **[ICP Dating Protocol](https://github.com/aliscie/nomodia)** – AI + behavioral matching on-chain
-* **[FastAPI Microservice Template](https://github.com/aliscie/rest-fastapi-template)** – JWT, rate-limited, Dockerized backend starter
-* **[Full stack django + react notion clone](https://github.com/aliscie/Learning-webstack-from-cloning-notion.so)** – NLP + AI-driven article generator
-* **[Job Search AI Agent](https://x.com/alihushamsci/status/1901617289230729347)** – Browser automation bot for auto-applying to jobs
+* Engineered [Vytrac](https://vytrac.com) hospital system frontend + backend (10K+ patient records)
+* Led full-stack development for [GetScouted](https://getscouted.com) talent platform
+* Built React frontends with Django/FastAPI backends
+* Implemented secure JWT/OAuth2 authentication systems
+* Reduced scheduling bugs by 85% through improved UX and backend optimization
 
 ---
 
-## 🧬 Technical Origins
+### **Founder & Developer**
+[**Vibecal.app**](https://vibecal.app) — *2023–Present*  
+*Building conversational calendar with Google Calendar integration*
 
-* Started with Python at 15 (2013)
-* Hired at 19 on Upwork as Django dev
-* Built fintech transaction systems (2017–2018)
-* Launched 5 React Native apps (5K+ MAU)
-* Early adopter of TDD in all projects
+* Designed chat-first UI with minimal buttons—users talk instead of manual input
+* Integrated Google Calendar OAuth and event creation APIs
+* Built React frontend with AI-powered conversational interface
+* Implemented real-time synchronization and time zone handling
+
+---
+
+## 🚀 NOTABLE WEB3 PROJECTS
+
+### **[NFT Marketplace DApp](https://github.com/aliscie/NFT-Marketplace-DApp)**
+Full-stack Ethereum NFT marketplace with MetaMask integration
+* React frontend with Web3.js wallet connectivity
+* Solidity smart contracts for ERC-721 trading
+* Responsive UI with real-time blockchain state updates
+
+### **[ICP Dating Protocol](https://github.com/aliscie/nomodia)**
+Decentralized dating app with on-chain matching
+* React frontend with ICP authentication
+* Smart contract-based behavioral matching
+* AI-driven recommendation engine
+
+### **[Job Search AI Agent](https://x.com/alihushamsci/status/1901617289230729347)**
+Browser automation bot using AI-assisted development
+* Built with GitHub Copilot and Cursor for rapid prototyping
+* Automated job application workflows
+* Demonstrates AI-powered development approach
+
+### **[Full Stack Notion Clone](https://github.com/aliscie/Learning-webstack-from-cloning-notion.so)**
+Django + React document collaboration platform
+* Component-driven React architecture
+* Real-time collaboration features
+* AI-driven content generation
+
+---
+
+## 🌟 OPEN SOURCE CONTRIBUTIONS
+
+* **[FastAPI Microservice Template](https://github.com/aliscie/rest-fastapi-template)** – Production-ready backend starter with JWT, Docker, rate limiting
+* Active contributor to Web3 developer tools and frameworks
+* Creator of educational Web3 development content on YouTube
+
+---
+
+## 🧬 TECHNICAL JOURNEY
+
+* **2013:** Started programming with Python at age 15
+* **2017:** Hired at 19 as Django developer on Upwork
+* **2017-2018:** Built fintech transaction systems
+* **2018-2020:** Launched 5 React Native apps (5K+ MAU)
+* **2021:** Transitioned to Web3/blockchain development full-time
+* **2021-Present:** 4+ years building production dApps and DeFi platforms
+* **2022:** Early adopter of AI-assisted development (Copilot, Cursor)
+* **Pioneer of TDD practices across all projects**
+
+---
+
+## 💡 ADDITIONAL EXPERTISE
+
+* **Psychology & Marketing:** Applied behavioral psychology to UX design and user engagement
+* **AI Development Workflows:** Proficient with GitHub Copilot, Cursor, ChatGPT, OpenAI AgentKit
+* **Cross-Chain Development:** Experience with ICP, Ethereum, and Layer 2 solutions
+* **DeFi & NFT Ecosystems:** Hands-on experience building trading and financial dApps
+* **Technical Leadership:** Mentored developers, established code quality standards, led agile teams
+
+---
+
+**Note:** Lost access to previous GitHub account ([aliscie2](https://github.com/aliscie2)) containing early work history. Current account reflects recent projects.
