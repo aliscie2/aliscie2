@@ -1,3 +1,4 @@
+My other account was suspended: https://github.com/aliscie2/aliscie
 # ALI HUSHAM
 
 **Lead Frontend Web3 Developer | Full Stack Blockchain Engineer | ICP & EVM Specialist**
