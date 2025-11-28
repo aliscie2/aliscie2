@@ -52,4 +52,4 @@ Lead Frontend Web3 Developer with 8+ years architecting production dApps and dec
 
 ### Certified by Polkadot Blockchain Academy (Apr 2025 - May 2025)
 - We studied the fundamentals of economy and Blockchain, in addition to advanced Rust practices.
-- Source: **app.kajabi.com/certificates/9b82fde3**
+- Source: [**app.kajabi.com/certificates/9b82fde3**](https://app.kajabi.com/certificates/9b82fde3)
