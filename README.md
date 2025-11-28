@@ -1,5 +1,5 @@
 
-# ALI Husham SCI
+# ALI HUSHAM SCI
 
 **github.com/aliscie2** | [**linkedin.com/in/alisci**](https://www.linkedin.com/in/alisci/) 
 
