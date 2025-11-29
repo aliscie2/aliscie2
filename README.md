@@ -1,6 +1,6 @@
 # ALI HUSHAM SCI
 
-[github.com/aliscie2](https://github.com/aliscie2) | [linkedin.com/in/alisci](https://www.linkedin.com/in/alisci)
+[odoc_ic](https://x.com/odoc_ic) | [linkedin.com/in/alisci](https://www.linkedin.com/in/alisci)
 
 **Full Stack Web3 Developer | ICP & Solana Specialist**
 
