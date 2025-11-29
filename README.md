@@ -8,12 +8,7 @@
 **Web & Frameworks:** React • Django • REST API • Playwright • TensorFlow (AI/ML)  
 **Blockchain:** ICP • Solana (Anchor) • Smart Contracts • Web3
 
-Started coding at 13 with Python. At 16, I built my first commercial AI chatbot that 
-replaced a lengthy form system—it taught me that the best code eliminates friction.
-
-Today, I architect Web3 systems and conversational AI that make complex technology feel 
-simple. The revolutionary potential of blockchain—replacing entire financial 
-infrastructures with smart contracts—drives my work in decentralized platforms.
+I started coding at 13 with Python, building a Morse code dictionary for fun. At 16, I built my first commercial project—an AI chatbot that replaced a company's lengthy application form by extracting information through conversation. That experience showed me how code can eliminate friction. Since then, I've been building systems that simplify complexity: I created oDoc.app, an open-source freelance platform with zero-fee crypto payments and won a $35k grant from DFINITY. Then I built Weekaly.com, an AI scheduling assistant that's 10x faster than traditional tools. Today, I specialize in blockchain applications on ICP and Solana, and conversational AI—still driven by that same goal of making technology invisible to users.
 
 ---
 
