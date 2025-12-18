@@ -1,3 +1,5 @@
+My old account: https://github.com/aliscie
+
 # ALI HUSHAM SCI
 
 [odoc_ic](https://x.com/odoc_ic) | [linkedin.com/in/alisci](https://www.linkedin.com/in/alisci)
