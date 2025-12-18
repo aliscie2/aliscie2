@@ -2,7 +2,7 @@
 
 [odoc_ic](https://x.com/odoc_ic) | [linkedin.com/in/alisci](https://www.linkedin.com/in/alisci)
 
-**Full Stack Web3 Developer | ICP & Solana Specialist**
+AI-Integrated Blockchain Engineer | CNN specialist | PyTorch | python | Rust 🦀
 
 **Core Skills:** Rust • TypeScript • Python (typed) • Node.js • PostgreSQL • Docker • gRPC  
 **Web & Frameworks:** React • Django • REST API • Playwright • TensorFlow (AI/ML)  
